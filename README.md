@@ -5,10 +5,10 @@
 
 <h2>Features</h2>
 <ul>
-  <li>= Tip Selection</li>
-  <li>= Random Total Amount</li>
-  <li>= Minimum Validation</li>
-  <li>= Tracking back</li>
-  <li>= Cancelling</li>
+  <li> Tip Selection</li>
+  <li> Random Total Amount</li>
+  <li> Minimum Validation</li>
+  <li> Tracking back</li>
+  <li> Cancelling</li>
 </ul>
 
